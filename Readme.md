@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анна Ржавитина](https://up.htmlacademy.ru/javascript/18/user/412737).
-* Наставник: `Неизвестно`.
+* Наставник: `Евгений Щеколдин`.
 
 ---
 
